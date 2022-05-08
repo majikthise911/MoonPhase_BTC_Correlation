@@ -1,6 +1,4 @@
 # group-repo
-first group project repo
-jared was here
 # Lunar Lotto
 ##### Jared Dylan and Jordan Clayton
 #
