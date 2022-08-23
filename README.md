@@ -1,6 +1,6 @@
 # group-repo
 # Lunar Lotto
-##### Jared Dylan and Jordan Clayton
+##### Jared Dylan, Jordan Clayton, Veronica Manuel
 #
 62.50% is the percentage of times you would profit if you bought BTC on the full moon and sold it on the new moon of every month!
 ​
